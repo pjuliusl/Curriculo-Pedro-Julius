@@ -6,15 +6,8 @@ h1 {
 }
 
 h2 {
-    display: inline-flex;
-    background-color: #3A4042;
     color: #F25A70;
     font-size: 40px;
     font-family: "Press Start 2P", sans-serif;
     text-shadow: 4px 4px 0px #000;
-    box-shadow: 10px 10px 0px #000;
-    line-height: 40px;
-    margin-left: 91px;
-    margin-top: 116px;
-    padding: 42px 97px 102px 90px;
 }
