@@ -42,3 +42,16 @@ id="button1"
 <a  id="button" href= "" lang"en"> Download CV </a>
 
 <a  id="button1" href= "" lang"en"> Download CV </a>
+
+
+SELETOR DE TAG ---->
+
+- Associado a tag
+- Todas as mesmas tags de uma página terão o mesmo efeito.
+- Tem característica de afetar todas os elementos com essa tag, podendo ser uma desvantagem ou uma vantagem.
+
+CLASS --->
+-Não tem limitação por página.
+-Tags diferentes podem ser usadas
+
+CSS TRICKS FLEXBOX (VER NO GOOGLE PRA TIRAR DUVIDAS)
