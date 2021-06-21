@@ -1,0 +1,13 @@
+.wrapper-footer {
+    display: inline-flex;
+    background-color: #000;
+    height: 72px;
+    width: 100%;
+    justify-content: center;
+    padding-top: 28px;
+    margin-top: 47px;
+}
+
+.wrapper-footer .item-footer {
+    margin-right: 40px;
+}
