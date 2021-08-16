@@ -15,3 +15,14 @@
     transform: scale(1.09);
     color: #000;
 }
+
+.main-button.-forms {
+    background-color: #F25A70;
+    width: 1360px;
+    height: 60px;
+    font-family: "Fira Code" , sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    padding-bottom:50px; 
+}
